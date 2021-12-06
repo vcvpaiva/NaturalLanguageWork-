@@ -5,20 +5,17 @@ B. Work on NLI (with Katerina and Livy)
 C. Work on Portuguese
 
 A. Work on PARC and older projects:
-1. Books:
-Inheritance, Defaults and the Lexicon (Studies in Natural Language Processing)
+1. Inheritance, Defaults and the Lexicon (Studies in Natural Language Processing)
 by Ted Briscoe (Editor), Ann Copestake (Editor), Valeria de Paiva (Editor) 
 ISBN-13: 978-0511663642
 ISBN-10: 0511663641 
 
-2. 
-From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
+2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
 by Tracy Holloway King (Editor), Valeria de Paiva (Editor)
 ISBN-13: 978-1575866628
 ISBN-10: 1575866625 
 
-3. 
-Linguistic Issues in Language Technology Vol 9: Perspectives on Semantic Representations for Textual Inference (Volume 9) Annotated Edition
+3. Linguistic Issues in Language Technology Vol 9: Perspectives on Semantic Representations for Textual Inference (Volume 9) Annotated Edition
 by Annie Zaenen (Editor), Cleo Condoravdi (Editor), Valeria de Paiva (Editor) 
 
 Papers:
@@ -111,6 +108,7 @@ T Briscoe, A Copestake, V De Paiva
 Cambridge University Press
 
 =============================
+Work on Portuguese resources
 
 1. Semantic Links for Portuguese
 F Chalub, L Real, A Rademaker, V de Paiva
