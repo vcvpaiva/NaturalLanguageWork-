@@ -168,6 +168,7 @@ Global WordNet
 15. Extending wordnet to geological times
 H Muniz, F Chalub, A Rademaker, V De Paiva
 Proceedings of the 9th Global Wordnet Conference, 145-152
+https://aclanthology.org/2018.gwc-1.17/
 
 16. OpenWordNet-PT: a project report
 A Rademaker, V De Paiva, G De Melo, L Real, M Gatti
@@ -204,6 +205,7 @@ GWC 2012 6th International Global Wordnet Conference, 100
 24. As Wordnets do Português
 HG Oliveira, V de Paiva, C Freitas, A Rademaker, L Real, A Simões
 Oslo Studies in Language 7 (1)
+https://journals.uio.no/osla/article/view/1445
 
 25. Universal dependencies for Portuguese
 A Rademaker, F Chalub, L Real, C Freitas, E Bick, V de Paiva
@@ -212,5 +214,6 @@ Proceedings of the Fourth International Conference on Dependency Linguistics
 26. Openwordnet-pt: An open brazilian wordnet for reasoning
 V de Paiva, A Rademaker, G de Melo
 Proceedings of COLING 2012: Demonstration Papers, 353-360
+https://aclanthology.org/C12-3044/
 
 27. CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies
