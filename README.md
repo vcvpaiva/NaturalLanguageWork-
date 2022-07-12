@@ -10,7 +10,8 @@ C. Work on Portuguese
 A. Work on PARC and older projects:
 
 1. Inheritance, Defaults and the Lexicon (Studies in Natural Language Processing book)
-by Ted Briscoe (Editor), Ann Copestake (Editor), Valeria de Paiva (Editor) 
+
+Ted Briscoe (Editor), Ann Copestake (Editor), Valeria de Paiva (Editor) 
 ISBN-13: 978-0511663642
 ISBN-10: 0511663641 
 
@@ -38,7 +39,10 @@ https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-238.html
 
 2. The ACQUILEX LKB: An introduction
 A Copestake, A Sanfilippo, T Briscoe, V de Paiva
-Ted Briscoe, Valeria de Paiva, and Ann Copestake, editors, Inheritance
+
+in Ted Briscoe, Valeria de Paiva, and Ann Copestake, editors, Inheritance, Defaults and the Lexicon
+
+https://dl.acm.org/doi/10.5555/156616.197455
 
 3. Types and constraints in the LKB
 V de Paiva
