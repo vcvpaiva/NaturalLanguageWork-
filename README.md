@@ -19,7 +19,9 @@ https://www.amazon.com/Inheritance-Defaults-Lexicon-Language-Processing-dp-05214
 2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
 by Tracy Holloway King (Editor), Valeria de Paiva (Editor)
 ISBN-13: 978-1575866628
-ISBN-10: 1575866625 
+ISBN-10: 1575866625
+
+https://web.stanford.edu/group/cslipublications/cslipublications/site/9781575866628.shtml
 
 3. Linguistic Issues in Language Technology Vol 9: Perspectives on Semantic Representations for Textual Inference (Volume 9) Annotated Edition
 by Annie Zaenen (Editor), Cleo Condoravdi (Editor), Valeria de Paiva (Editor) 
