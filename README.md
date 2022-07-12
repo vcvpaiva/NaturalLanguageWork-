@@ -1,9 +1,9 @@
 Collecting my work in Natural Language and Semantics. 
-I expect to divide it into three subsections:
+Divided  into three subsections:
 
 A. Work on PARC and older
 
-B. Work on NLI (with Katerina and Livy)
+B. Work on Natural Language Inference NLI (with Katerina and Livy)
 
 C. Work on Portuguese
 
@@ -25,6 +25,8 @@ https://web.stanford.edu/group/cslipublications/cslipublications/site/9781575866
 
 3. Linguistic Issues in Language Technology Vol 9: Perspectives on Semantic Representations for Textual Inference (Volume 9) Annotated Edition
 by Annie Zaenen (Editor), Cleo Condoravdi (Editor), Valeria de Paiva (Editor) 
+
+https://journals.colorado.edu/index.php/lilt/issue/view/129
 
 Papers:
 1. Proceedings of the ACQUILEX Workshop on Default Inheritance in the lexicon
