@@ -48,13 +48,23 @@ https://dl.acm.org/doi/10.5555/156616.197455
 V de Paiva
 Inheritance, defaults and the lexicon, 164-189
 
+https://www.cambridge.org/core/books/abs/inheritance-defaults-and-the-lexicon/types-and-constraints-in-the-lkb/
+
 4. Mini-Colloquium on Linear Logic for Natural Language
+
 D Crouch, J Van Genabith, M Hepple, V De Paiva
+
 SCHOOL OF COMPUTER SCIENCE RESEARCH REPORTS-UNIVERSITY OF BIRMINGHAM CSR
 
+https://www.cs.bham.ac.uk/~vdp/meetings/llnl.html
+
 5. Linear Logic and Applications (Dagstuhl Seminar 99341)
+ 
 V de Paiva, J von Genabith, E Ritter, R Crouch
+
 Schloss Dagstuhl-Leibniz-Zentrum für Informatik
+
+https://www.dagstuhl.de/Reports/99/99341.pdf
 
 6. Finding Similar Content Within Different Documents
 JO Everett, DG Bobrow, C Condoravdi, R Crouch, V de Paiva, R Stoller
