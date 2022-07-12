@@ -1,14 +1,20 @@
 Collecting my work in Natural Language and Semantics. 
 I expect to divide it into three subsections:
-A. Work on PARC stuff
+
+A. Work on PARC and older
+
 B. Work on NLI (with Katerina and Livy)
+
 C. Work on Portuguese
 
 A. Work on PARC and older projects:
-1. Inheritance, Defaults and the Lexicon (Studies in Natural Language Processing)
+
+1. Inheritance, Defaults and the Lexicon (Studies in Natural Language Processing book)
 by Ted Briscoe (Editor), Ann Copestake (Editor), Valeria de Paiva (Editor) 
 ISBN-13: 978-0511663642
 ISBN-10: 0511663641 
+
+https://www.amazon.com/Inheritance-Defaults-Lexicon-Language-Processing-dp-0521430275
 
 2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
 by Tracy Holloway King (Editor), Valeria de Paiva (Editor)
