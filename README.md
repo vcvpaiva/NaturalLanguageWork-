@@ -17,8 +17,10 @@ ISBN-10: 0511663641
 
 https://www.cambridge.org/core/books/inheritance-defaults-and-the-lexicon/F0E236804CC8F157BD0FA4E5CEE65689
 
-2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
-by Tracy Holloway King (Editor), Valeria de Paiva (Editor)
+2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen 
+
+ Tracy Holloway King (Editor), Valeria de Paiva (Editor)
+ 
 ISBN-13: 978-1575866628
 ISBN-10: 1575866625
 
