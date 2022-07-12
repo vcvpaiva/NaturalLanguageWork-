@@ -23,6 +23,9 @@ Papers:
 T Briscoe, A Copestake, V de Paiva
 University of Cambridge, Computer Laboratory
 
+https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-238.html
+
+
 2. The ACQUILEX LKB: An introduction
 A Copestake, A Sanfilippo, T Briscoe, V de Paiva
 Ted Briscoe, Valeria de Paiva, and Ann Copestake, editors, Inheritance
