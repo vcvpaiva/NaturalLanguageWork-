@@ -14,7 +14,7 @@ by Ted Briscoe (Editor), Ann Copestake (Editor), Valeria de Paiva (Editor)
 ISBN-13: 978-0511663642
 ISBN-10: 0511663641 
 
-https://www.amazon.com/Inheritance-Defaults-Lexicon-Language-Processing-dp-0521430275
+https://www.cambridge.org/core/books/inheritance-defaults-and-the-lexicon/F0E236804CC8F157BD0FA4E5CEE65689
 
 2. From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen Illustrated Edition
 by Tracy Holloway King (Editor), Valeria de Paiva (Editor)
