@@ -145,6 +145,7 @@ Proceedings of the Tenth International Conference on Language Resources
 
 2. Introducing OpenWordnet-PT: a open Portuguese wordnet for reasoning
 A Rademaker, V de Paiva, F Chalub, L Real, C Freitas (short write-up for the FrameNet-BR workshop 2016)
+https://arademaker.github.io/files/iccg-2016-article.pdf
 slides: https://arademaker.github.io/files/iccg-2016-slides.pdf
 
 3. Portuguese Manners of Speaking
