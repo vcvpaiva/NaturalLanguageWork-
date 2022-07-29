@@ -144,7 +144,8 @@ F Chalub, L Real, A Rademaker, V de Paiva
 Proceedings of the Tenth International Conference on Language Resources
 
 2. Introducing OpenWordnet-PT: a open Portuguese wordnet for reasoning
-A Rademaker, V de Paiva, F Chalub, L Real, C Freitas
+A Rademaker, V de Paiva, F Chalub, L Real, C Freitas (short write-up for the FrameNet-BR workshop 2016)
+slides: https://arademaker.github.io/files/iccg-2016-slides.pdf
 
 3. Portuguese Manners of Speaking
 V De Paiva, A Rademaker
@@ -202,6 +203,7 @@ https://aclanthology.org/2018.gwc-1.17/
 16. OpenWordNet-PT: a project report
 A Rademaker, V De Paiva, G De Melo, L Real, M Gatti
 Proceedings of the Seventh Global Wordnet Conference, 383-390
+https://aclanthology.org/W14-0153
 
 17. Seeing is correcting: curating lexical resources using social interfaces
 L Real, F Chalub, V De Paiva, C Freitas, A Rademaker
@@ -230,6 +232,7 @@ European Language Resources Association (ELRA)
 23. Revisiting a Brazilian wordnet
 V de Paiva, A Rademaker
 GWC 2012 6th International Global Wordnet Conference, 100
+https://vcvpaiva.github.io/includes/pubs/2012-gwc.pdf
 
 24. As Wordnets do Português
 HG Oliveira, V de Paiva, C Freitas, A Rademaker, L Real, A Simões
@@ -246,3 +249,5 @@ Proceedings of COLING 2012: Demonstration Papers, 353-360
 https://aclanthology.org/C12-3044/
 
 27. CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies
+
+28. 
