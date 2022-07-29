@@ -167,6 +167,7 @@ Proceedings of LexSem+ Logics 2016, 25
 7. OpenWordNet-PT: Taking Stock
 V de Paiva, A Rademaker, L Real, F Chalub, G de Melo
 EasyChair Preprint 2018
+https://easychair.org/publications/preprint_open/KSKL
 
 8. Linguistic Legal Concept Extraction in Portuguese
 A Cid, A Rademaker, B Cuconato, V de Paiva
