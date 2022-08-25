@@ -141,24 +141,27 @@ Work on Portuguese resources
 
 1. Semantic Links for Portuguese
 F Chalub, L Real, A Rademaker, V de Paiva
-Proceedings of the Tenth International Conference on Language Resources
+Proceedings of the Tenth International Conference on Language Resources https://aclanthology.org/L16-1142.pdf
 
 2. Introducing OpenWordnet-PT: a open Portuguese wordnet for reasoning
 A Rademaker, V de Paiva, F Chalub, L Real, C Freitas (short write-up for the FrameNet-BR workshop 2016)
-https://arademaker.github.io/files/iccg-2016-article.pdf
+https://aclanthology.org/C12-3044.pdf
 slides: https://arademaker.github.io/files/iccg-2016-slides.pdf
 
 3. Portuguese Manners of Speaking
 V De Paiva, A Rademaker
 Proceedings of the 10th Global Wordnet Conference, 373-377
+https://aclanthology.org/2019.gwc-1.47.pdf
 
 4. Extending nomlexpt using ancora-nom
 L Real, V de Paiva, A Rademaker
 Proceedings of Workshop on Tools and Resources for Automatically Processing 
 
+
 5. Extending a lexicon of Portuguese nominalizations with data from corpora
 C Freitas, V de Paiva, A Rademaker, G de Melo, L Real, A Silva
 International Conference on Computational Processing of the Portuguese
+https://link.springer.com/chapter/10.1007/978-3-319-09761-9_12
 
 6. Universal POS tagging for Portuguese: Issues and Opportunities
 V de Paiva, L Real
@@ -230,6 +233,7 @@ International Journal on Digital Libraries 15 (2-4), 153-167
 22. Nomlex-pt: A lexicon of portuguese nominalizations
 V Paiva, LM Real, A Rademaker, G Melo
 European Language Resources Association (ELRA)
+http://www.lrec-conf.org/proceedings/lrec2014/pdf/1031_Paper.pdf
 
 23. Revisiting a Brazilian wordnet
 V de Paiva, A Rademaker
@@ -252,4 +256,4 @@ https://aclanthology.org/C12-3044/
 
 27. CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies
 
-28. 
+ 
